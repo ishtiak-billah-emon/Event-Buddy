@@ -1,0 +1,32 @@
+export const events = [
+  {
+    id: "1",
+    title: "Summer Music Festival",
+    date: "2025-06-15",
+    time: "18:00",
+    location: "Central Park",
+    description: "A vibrant music festival featuring top artists.",
+    isUpcoming: true,
+    image: "https://via.placeholder.com/300x200",
+  },
+  {
+    id: "2",
+    title: "Tech Conference 2025",
+    date: "2025-07-20",
+    time: "09:00",
+    location: "Convention Center",
+    description: "Explore the latest in tech innovations.",
+    isUpcoming: true,
+    image: "https://via.placeholder.com/300x200",
+  },
+  {
+    id: "3",
+    title: "Art Exhibition",
+    date: "2025-04-10",
+    time: "10:00",
+    location: "City Gallery",
+    description: "A showcase of modern art.",
+    isUpcoming: false,
+    image: "https://via.placeholder.com/300x200",
+  },
+];
